@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello World! 👋
+
+- ⚙️ Developer in training
+- 🌱 I’m currently learning HTML & CSS
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/rodrigo-sousa-/"> Linkedin</a> <a href="https://www.instagram.com/rods.sousa/"> Instagram</a>
+- 😄 Pronouns: he/him
+  
 
 <!--
 **rods-sousa/rods-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
