@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning HTML & CSS
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/rodrigo-sousa-/"> Linkedin</a> <a href="https://www.instagram.com/rods.sousa/"> Instagram</a>
 - 😄 Pronouns: he/him
+
+- Librarian by training, researcher by nature and designer by passion.  Diving into the world of programming with HTML and CSS. Building my first personal portfolio and learning to organize information digitally.
   
 
 <!--
