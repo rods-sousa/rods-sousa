@@ -8,7 +8,8 @@
 - Librarian by training, researcher by nature and designer by passion.  Diving into the world of programming with HTML and CSS. Building my first personal portfolio and learning to organize information digitally.
   
 
-<!--
+
+<!-- Colocar redes sociais, email, berance e afins, icons de linguagens aprendidas (css e html) --
 **rods-sousa/rods-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
