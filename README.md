@@ -5,7 +5,7 @@
 
 - ⚙️ Librarian and Developer in Training
 - 🌱 I’m currently learning HTML & CSS
-- 💡 Soft Skil: Interpersonal, Time management, Data analysis, Analytical thinking, Empathy, Adaptability.
+- 💡 Soft Skil: Interpersonal, Time management, Data analysis, Analytical thinking, Empathy, Adaptability
 - 📫 Talk to me: <br>
   Email: *rodrigo.sousa0294@gmail.com*
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/rodrigo-sousa-/"> Linkedin</a>, <a href="https://www.instagram.com/rods.sousa/"> Instagram</a>, <a href="https://www.behance.net/rodrigosousa55"> Behance </a>, <a href="http://lattes.cnpq.br/2055645415413300"> Lattes </a> 
